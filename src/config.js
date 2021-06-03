@@ -3,8 +3,8 @@ module.exports = {
   siteDescription:
     'Tope Leye is a software engineer based in Lagos, Nigeria who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
   siteKeywords:
-    'Tope, Leye, temitope, topeogunleye21, topeogunleye, ogunleye, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://brittanychiang.com',
+    'tope, leye, temitope, topeogunleye21, topeogunleye,topeogunleye1, ogunleye, software engineer, front-end engineer, web developer, javascript, lagos, nigeria',
+  siteUrl: 'https://topeleye.netlify.app/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
