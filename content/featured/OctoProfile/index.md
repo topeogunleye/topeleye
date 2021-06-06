@@ -1,14 +1,13 @@
 ---
 date: '3'
-title: 'OctoProfile'
+title: '9ijakids-game-list'
 cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+github: 'https://github.com/topeogunleye/9ijakids-game-list'
+external: 'https://9ijakidsgames.netlify.app/'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - React
+  - Tailwind CSS
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.
+A Project I built as a task for a Job Application. it is a Games Catalague display website for  kids.
