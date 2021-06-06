@@ -9,6 +9,6 @@ tech:
   - React
   - Paypal API
   - Redux
-company: 'Upstatement'
+company: 'freelancer'
 showInProjects: false
 ---
