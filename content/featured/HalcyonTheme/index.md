@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'Recipa'
+title: 'Crwn Clothing'
 cover: './halcyon.png'
 github: 'https://github.com/topeogunleye/crwn-clothing'
 external: 'https://crownclothingreact.netlify.app/'
