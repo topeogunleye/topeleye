@@ -1,7 +1,7 @@
 ---
 date: '2017-12-21'
 title: 'NYSC Corper'
-company: 'FCT High Court'
+company: 'FCT Court'
 location: 'Abuja, Nigeria'
 range: 'May - Mar 2019'
 url: 'http://www.fcthighcourt.gov.ng/'
