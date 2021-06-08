@@ -1,8 +1,8 @@
 ---
 date: '2018-04-01'
 title: 'Volunteer'
-company: 'Junior Achievement Nigeria'
-location: 'Northeastern University'
+company: 'JAN'
+location: 'Nigeria'
 range: 'Jan - April 2018'
 url: 'https://web.northeastern.edu/scout/'
 ---

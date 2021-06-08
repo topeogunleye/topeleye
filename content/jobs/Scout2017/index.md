@@ -1,7 +1,7 @@
 ---
 date: '2019-10-01'
 title: 'Volunteer'
-company: 'TechQuest STEM Academy'
+company: 'TQ STEM'
 location: 'Nigeria'
 range: 'Nov - Dec 2019'
 url: 'https://tqstem.org/'
