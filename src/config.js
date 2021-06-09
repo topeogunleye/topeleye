@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'Tope Leye | Software Engineer',
   siteDescription:
-    'Tope Leye is a software engineer based in Lagos, Nigeria who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+    'Tope Leye is a software engineer based in Lagos, Nigeria who specializes in building exceptional websites and web applications.',
   siteKeywords:
     'tope, leye, temitope, topeogunleye21, topeogunleye,topeogunleye1, ogunleye, software engineer, front-end engineer, web developer, javascript, lagos, nigeria',
   siteUrl: 'https://topeleye.netlify.app/',
